@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-jms-tutorial.iml" filepath="$PROJECT_DIR$/spring-boot-jms-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-activemq-default-tutorial.iml" filepath="$PROJECT_DIR$/spring-boot-activemq-default-tutorial.iml" />
     </modules>
   </component>
 </project>
